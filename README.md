@@ -9,6 +9,7 @@ features:
 - ✔ Two modes ( Training 📚 | Challenge 💪)
 - ✔ Bilanguage (French | English)
 - ✔ Integrated Virutal Key Board ⌨️
+- ✔ AZERTY and QWERTY layouts ⌨️
 - ✔ Smooth animations
 
 # Dev Environnement
